@@ -1,7 +1,7 @@
 Hi 👋 My name is Narongsak Pumpasert
 ====================================
 
-Full-Stack, Front-end, Back-end Developer
+Full-Stack Developer
 -----------------------------------------
 
 * ✉️  You can contact me at [narongasak05n@gmail.com](mailto:narongasak05n@gmail.com)
