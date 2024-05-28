@@ -1,7 +1,7 @@
 Hi 👋 My name is Narongsak Pumpasert
 ====================================
 
-Full Stack Developer
+Freelance Full Stack Developer
 --------------------
 
 I am currently studying at Nakhon Pathom Rajabhat University with a bachelor's degree in Software Engineering.
