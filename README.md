@@ -8,7 +8,7 @@ I am currently studying at Nakhon Pathom Rajabhat University with a bachelor's d
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [narongasak05n@gmail.com](mailto:narongasak05n@gmail.com)
-* 🧠  I'm learning I'm learning now studying java(spring-boot), flutter and many more about software engineering and data science
+* 🧠  I'm learning now studying java(spring-boot), flutter and many more about software engineering and data science
 
 ### Skills
 
