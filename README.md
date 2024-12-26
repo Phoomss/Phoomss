@@ -8,7 +8,7 @@ I am currently studying at Nakhon Pathom Rajabhat University with a bachelor's d
 
 * 🌍  I'm based in Nakhon Pathom Thailand.
 * ✉️  You can contact me at [narongsak05n@gmail.com](mailto:narongsak05n@gmail.com)
-* 🧠  I'm learning I'm currently studying docker and k8s and go lang.
+* 🧠  I'm learning docker and k8s and go lang.
 
 <a href="https://www.github.com/Phoomss" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Phoomss?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
