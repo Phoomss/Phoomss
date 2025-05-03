@@ -37,6 +37,4 @@ src="https://img.shields.io/github/followers/Phoomss?logo=github&style=for-the-b
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 
