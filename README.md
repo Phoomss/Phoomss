@@ -34,3 +34,9 @@ src="https://img.shields.io/github/followers/Phoomss?logo=github&style=for-the-b
 <a href="http://www.github.com/Phoomss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Phoomss&stroke=3382ed&background=000000&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
 <a href="https://github.com/Phoomss" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoomss&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
