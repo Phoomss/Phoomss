@@ -18,17 +18,53 @@
 
 ## 🙋‍♂️ About Me
 
-```javascript
-const developer = {
-    name: "Narongsak Pumpasert",
-    role: "FullStack Developer",
-    education: "Software Engineering @ Nakhon Pathom Rajabhat University",
-    location: "Nakhon Pathom, Thailand 🇹🇭",
-    currentlyLearning: ["Docker 🐳", "Kubernetes ☸️", "Go Lang 🐹"],
-    interests: ["Web Development", "Cloud Computing", "DevOps", "System Design"],
-    workStatus: "Available for Freelance Projects ✨"
-};
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Who Am I?
+
+🎓 **Education**  
+Software Engineering Student  
+📍 Nakhon Pathom Rajabhat University
+
+💼 **Current Role**  
+Freelance FullStack Developer
+
+🌏 **Based in**  
+Nakhon Pathom, Thailand 🇹🇭
+
+✨ **Status**  
+Open to Freelance Opportunities
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Currently Exploring
+
+- 🐳 **Docker** - Containerization & Orchestration
+- ☸️ **Kubernetes** - Cloud Native Applications
+- 🐹 **Go Lang** - Backend Development
+
+### 💡 Interests
+
+- 🌐 Web Development
+- ☁️ Cloud Computing
+- 🔧 DevOps & CI/CD
+- 🏗️ System Architecture
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📫 Let's Collaborate!
+
+I'm passionate about building scalable web applications and always eager to learn new technologies.  
+Feel free to reach out for freelance projects or tech discussions! 
+
+</div>
 
 <br/>
 
@@ -107,7 +143,44 @@ const developer = {
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Phoomss&repo=readme&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1F2937&bg_color=FFFFFF)](https://github.com/Phoomss)
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Project Highlights
+
+<a href="https://github.com/Phoomss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phoomss&repo=premier-league-web&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1F2937&bg_color=FFFFFF" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Phoomss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phoomss&repo=workshop-mern&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1F2937&bg_color=FFFFFF" />
+</a>
+
+</td>
+<td width="50%">
+
+### 💼 Recent Work
+
+<a href="https://github.com/Phoomss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phoomss&repo=travel-react&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1F2937&bg_color=FFFFFF" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Phoomss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phoomss&repo=e-commerce&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1F2937&bg_color=FFFFFF" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**🔗 [View All Projects →](https://github.com/Phoomss?tab=repositories)**
 
 </div>
 
