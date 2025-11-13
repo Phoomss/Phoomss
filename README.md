@@ -139,51 +139,6 @@ Feel free to reach out for freelance projects or tech discussions!
 
 <br/>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Project Highlights
-
-<a href="https://github.com/Phoomss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phoomss&repo=premier-league-web&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1F2937&bg_color=FFFFFF" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Phoomss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phoomss&repo=workshop-mern&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1F2937&bg_color=FFFFFF" />
-</a>
-
-</td>
-<td width="50%">
-
-### 💼 Recent Work
-
-<a href="https://github.com/Phoomss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phoomss&repo=travel-react&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1F2937&bg_color=FFFFFF" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Phoomss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phoomss&repo=e-commerce&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1F2937&bg_color=FFFFFF" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-**🔗 [View All Projects →](https://github.com/Phoomss?tab=repositories)**
-
-</div>
-
 <br/>
 
 ## 📝 Latest Blog Posts
@@ -210,18 +165,6 @@ Feel free to reach out for freelance projects or tech discussions!
 <br/>
 
 <div align="center">
-
-### 💡 Quote of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/Phoomss/count.svg)
-
----
 
 <sub>⭐️ From [Phoomss](https://github.com/Phoomss) with ❤️</sub>
 
