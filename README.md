@@ -2,106 +2,136 @@
 
 # 👋 Hi, I'm Narongsak Pumpasert
 
-### 🚀 FullStack Developer | 🎓 Software Engineering Student | ☁️ Cloud Enthusiast
+### 💻 Software Engineer | Full-Stack Developer | ☁️ Cloud & DevOps | 🤖 AI/LLM Applications
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=440&lines=Building+Scalable+Web+Applications;Passionate+about+Cloud+%26+DevOps;Learning+Docker+%26+Kubernetes;Open+to+Freelance+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+Scalable+Full-Stack+Applications;Cloud-Native+%26+DevOps+Engineering;Building+AI-Powered+Applications+with+LLMs+%26+RAG;Docker+%7C+Kubernetes+%7C+AWS+%7C+CI%2FCD;Turning+Ideas+into+Production-Ready+Systems" alt="Typing SVG" />
 
 <br/>
 
 [![Location](https://img.shields.io/badge/📍_Nakhon_Pathom,_Thailand-2563EB?style=flat-square&labelColor=E0E7FF)](https://maps.google.com)
 [![Email](https://img.shields.io/badge/✉️_narongsak05n@gmail.com-2563EB?style=flat-square&labelColor=E0E7FF)](mailto:narongsak05n@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2563EB?style=flat-square&labelColor=E0E7FF)](https://github.com/Phoomss)
+[![Portfolio](https://img.shields.io/badge/🌐_GitHub_Portfolio-2563EB?style=flat-square&labelColor=E0E7FF)](https://github.com/Phoomss)
 
 </div>
 
 <br/>
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-I am a passionate software engineering student and freelance full-stack developer dedicated to building scalable web applications and exploring cloud technologies.
+I'm a **Software Engineering student and Freelance Full-Stack Developer** based in Thailand, focused on building scalable web applications, cloud-native systems, and AI-powered software.
 
-### 👨‍💻 Profile
-- 🎓 **Education:** Software Engineering Student at Nakhon Pathom Rajabhat University
-- 💼 **Current Role:** Freelance FullStack Developer
-- 🌏 **Based in:** Nakhon Pathom, Thailand 🇹🇭
-- ✨ **Status:** Open to Freelance Opportunities
+My work spans the full software development lifecycle — from **frontend and backend development** to **database design, containerization, CI/CD, cloud deployment, Kubernetes orchestration, monitoring, and AI/LLM integration**.
+
+I enjoy turning ideas into practical systems and exploring how **Software Engineering, Cloud, DevOps, and AI** can work together to build reliable and scalable applications.
+
+### 🎯 Profile
+
+- 🎓 **Software Engineering Student** — Nakhon Pathom Rajabhat University
+- 💼 **Freelance Full-Stack Developer**
+- 🌏 Based in **Nakhon Pathom, Thailand 🇹🇭**
+- 💻 Interested in **Software Engineering, Backend, Full-Stack & DevOps**
+- 🤖 Building applications with **LLMs, RAG & AI Integration**
+- ☁️ Working with **AWS, Docker & Kubernetes**
+- ✨ Open to **Internship, Freelance & Software Engineering Opportunities**
 
 ---
 
-### 🚀 Currently Exploring
-- 🐳 **Docker** — Containerization & Orchestration
-- ☸️ **Kubernetes** — Cloud Native Applications
+## 🚀 What I'm Working With
 
-### 💡 Interests
-- 🌐 Web Development
-- ☁️ Cloud Computing
-- 🔧 DevOps & CI/CD
-- 🏗️ System Architecture
+- 🌐 **Full-Stack Engineering** — React, Next.js, Node.js, NestJS & FastAPI
+- ⚙️ **Backend Architecture** — REST APIs, Authentication, RBAC & Database Design
+- ☁️ **Cloud & DevOps** — AWS, Docker, Kubernetes, Terraform & Nginx
+- 🔄 **CI/CD** — GitHub Actions, Jenkins & GitOps
+- 📊 **Observability** — Prometheus, Grafana & Loki
+- 🤖 **AI Engineering** — LLM Integration, RAG, Embeddings & Vector Search
+- 🧠 **AI Orchestration** — Multi-Agent / Agent-Based AI Workflows
+- 🏗️ **System Design** — Scalable and maintainable application architecture
 
-<div align="center">
-
-### 📫 Let's Collaborate!
-
-I'm passionate about building scalable web applications and always eager to learn new technologies.  
-Feel free to reach out for freelance projects or tech discussions! 
-
-</div>
-
-<br/>
+---
 
 ## 🛠️ Technology Stack
 
 <div align="center">
 
-### Languages
+### 💻 Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### 🎨 Frontend
 
-### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-### Databases
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🗄️ Database & Data
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### DevOps & Cloud
+### 🤖 AI & LLM Engineering
+
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Integration-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-2563EB?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-7C3AED?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-059669?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-F59E0B?style=for-the-badge)
+
+### ☁️ DevOps & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1629?style=for-the-badge&logo=helm&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### CI/CD & Monitoring
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+### 🔄 CI/CD & GitOps
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Monitoring & Observability
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-FF7E0F?style=for-the-badge&logo=argo&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Tools & OS
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ⛓️ Blockchain
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+
+### 🔧 Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -110,22 +140,30 @@ Feel free to reach out for freelance projects or tech discussions!
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Phoomss&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1F2937&bg_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Phoomss&theme=default&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=1F2937&currStreakNum=1F2937&dates=1F2937&sideNums=1F2937&background=FFFFFF&stroke=E5E7EB" alt="GitHub Streak" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Phoomss&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+  height="165"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoomss&layout=compact&hide_border=true&langs_count=8"
+  height="165"
+  alt="Top Languages"
+/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoomss&layout=compact&theme=default&hide_border=true&title_color=2563EB&text_color=1F2937&bg_color=FFFFFF&langs_count=10" alt="Top Languages" />
-</div>
 
-<br/>
+<img
+  src="https://streak-stats.demolab.com?user=Phoomss&hide_border=true"
+  alt="GitHub Streak"
+/>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Phoomss&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -133,20 +171,22 @@ Feel free to reach out for freelance projects or tech discussions!
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phoomss&theme=github-light&hide_border=true&bg_color=FFFFFF&color=2563EB&line=2563EB&point=1F2937" alt="Contribution Graph" />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Phoomss&hide_border=true&area=true"
+  width="100%"
+  alt="GitHub Contribution Graph"
+/>
+
 </div>
-
-<br/>
-
-<br/>
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 Coming soon on Medium...
+- 🚀 More technical articles coming soon...
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More blog posts...](https://medium.com/@narongsakP)
+➡️ [Read my articles on Medium](https://medium.com/@narongsakP)
 
 <br/>
 
@@ -154,16 +194,20 @@ Feel free to reach out for freelance projects or tech discussions!
 
 <div align="center">
 
+I'm always interested in discussing **Software Engineering, Cloud, DevOps, AI, and interesting projects**.
+
+<br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Phoomss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narongsak-pumpasert-4577102a8)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@narongsakP)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narongsak05n@gmail.com)
 
-</div>
-
 <br/>
 
-<div align="center">
+**Open to Software Engineering opportunities, internships, freelance projects, and technical collaborations.**
+
+<br/>
 
 <sub>⭐️ From [Phoomss](https://github.com/Phoomss) with ❤️</sub>
 
