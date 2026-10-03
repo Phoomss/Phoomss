@@ -173,7 +173,7 @@ I enjoy turning ideas into practical systems and exploring how **Software Engine
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Phoomss&hide_border=true&area=true"
+  src="https://ghchart.xqsit94.in/Phoomss"
   width="100%"
   alt="GitHub Contribution Graph"
 />
